@@ -1,5 +1,6 @@
 * introduction
-** Attention-grabber
+** DONE Attention-grabber
+   CLOSED: [2017-03-06 Mon 17:34]
 ** Definition of Communication
 ** (paraphrasing) social interaction and interpersonal perception
 ** Verbal and non-verbal communication
