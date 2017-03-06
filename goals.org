@@ -13,13 +13,6 @@
 ** Name of author as subject identifying what the article is about. Circle verb
 ** Paper/research or author+verb+ communication signals discussed. Circle verb
 ** Transition between paragraphs. Circle language that shows a relationship
-** Name of author as subject identifying what the article is about. Circle verb
-** Paper/research or author+verb+ communication signals discussed. Circle verb
-** Transition between paragraphs. Circle language that shows a relationship
-** Name of author as subject identifying what the article is about. Circle verb
-** Paper/research or author+verb+ communication signals discussed. Circle verb
-** Transition between paragraphs. Circle language that shows a relationship
-
 * Conclusion:
 ** Topic sentence: To sum up; in conclusion…this literature review has done…..
 ** Topic:
