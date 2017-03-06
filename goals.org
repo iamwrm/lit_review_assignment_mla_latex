@@ -1,9 +1,11 @@
-* introduction
+* DONE introduction
+  CLOSED: [2017-03-06 Mon 18:48]
 ** DONE Attention-grabber
    CLOSED: [2017-03-06 Mon 17:34]
 ** DONE Definition of Communication
    CLOSED: [2017-03-06 Mon 18:26]
-** TODO (paraphrasing) social interaction and interpersonal perception
+** DONE (paraphrasing) social interaction and interpersonal perception
+   CLOSED: [2017-03-06 Mon 18:48]
 ** DONE Verbal and non-verbal communication
    CLOSED: [2017-03-06 Mon 18:26]
 
